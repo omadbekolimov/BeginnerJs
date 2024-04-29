@@ -21,7 +21,7 @@
 
 //  ism familiya  yosh manzil  yosh number 
   
-   let ism =prompt("Ism kiriting :")
+   let ism =prompt("Ism kiriting:")
    let familiya =prompt("Familiya kiriting")
 //    alert(`Sizning ismingiz ${ism} Sizning familiyangiz ${familiya}`)
    alert("Sizning ismingiz "  + ism + " Sizning familiyangiz " + familiya)
