@@ -65,3 +65,4 @@ console.log(d++)
 let raqam =+prompt("Birinchi raqamni kiriting")
 let raqam2 =+prompt("Ikkinchi raqamni kiriting ")
 console.log(raqam+raqam2);
+
