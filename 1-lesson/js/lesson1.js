@@ -21,10 +21,19 @@
 
 //  ism familiya  yosh manzil  yosh number 
   
-   let ism =prompt("Ism kiriting:")
-   let familiya =prompt("Familiya kiriting")
+   // let ism =prompt("Ism kiriting:")
+   // let familiya =prompt("Familiya kiriting")
 //    alert(`Sizning ismingiz ${ism} Sizning familiyangiz ${familiya}`)
-   alert("Sizning ismingiz "  + ism + " Sizning familiyangiz " + familiya)
+   // alert("Sizning ismingiz "  + ism + " Sizning familiyangiz " + familiya)
 
- 
+ let name = 'Omadbek'
+ let fullName = "Omadbek Olimov"
+ let age = 465
+ let isActive = true
+
+ console.log(`${typeof(name)} 
+  full-> ${typeof(fullName)} 
+  age ->${typeof(age)} 
+  isActive  ${typeof(isActive
+)}`);
 
